@@ -1,0 +1,46 @@
+{
+    "seafood": [
+        {
+            "productName": "Tôm hùm Alaska",
+            "price": "2000000",
+            "imgUrl": "https://product.hstatic.net/1000166699/product/ala_hap_db799f116ecd4fa3a7fce67351b17a3c_master.jpg",
+            "description": "Tôm Hùm Alaska Hấp Tự Nhiên: Giữ trọn hương vị tự nhiên của thịt Tôm Hùm Alaska: thơm tự nhiên và ngọt đậm đà, từng thớ thịt dai, săn chắc từng khối, ...",
+            "id": 1
+        },
+        {
+            "productName": "Cua Hoàng Đế",
+            "price": "1500000",
+            "imgUrl": "https://haisanhuubo.com/wp-content/uploads/2020/03/cua-hoang-de-lam-gi-ngon-nhat.jpg",
+            "description": "Cua Hoàng Đế được nhập khẩu sống từ Nauy/Canada nguyên con, có giá trị dinh dưỡng cao.  Size Cua từ 2kg  4kg/ con (Bán chạy nhất từ 2kg  3kg/con)",
+            "id": 2
+        },
+        {
+            "productName": "Cua Cà Mau",
+            "price": "3210000",
+            "imgUrl": "https://th.bing.com/th/id/OIP.5e2a0YzOxl8AOMpP4jAk4AHaE8?pid=ImgDet&rs=1",
+            "description": "Cua Cà Mau hay Cua xanh (danh pháp hai phần: Scylla paramamosain) là một loài cua biển, nói chung được sử dụng phổ biến làm thực phẩm tại Đài Loan và Việt Nam",
+            "id": 3
+        },
+        {
+            "productName": "Mực Một Nắng",
+            "price": "1000000",
+            "imgUrl": "https://product.hstatic.net/1000166699/product/ala_hap_db799f116ecd4fa3a7fce67351b17a3c_master.jpg",
+            "description": "Tôm Hùm Alaska Hấp Tự Nhiên: Giữ trọn hương vị tự nhiên của thịt Tôm Hùm Alaska: thơm tự nhiên và ngọt đậm đà, từng thớ thịt dai, săn chắc từng khối, ...",
+            "id": 4
+        },
+        {
+            "productName": "Tôm sú",
+            "price": "1200000",
+            "imgUrl": "https://product.hstatic.net/1000166699/product/ala_hap_db799f116ecd4fa3a7fce67351b17a3c_master.jpg",
+            "description": "Tôm Hùm Alaska Hấp Tự Nhiên: Giữ trọn hương vị tự nhiên của thịt Tôm Hùm Alaska: thơm tự nhiên và ngọt đậm đà, từng thớ thịt dai, săn chắc từng khối, ...",
+            "id": 5
+        },
+        {
+            "productName": "Cá Basa",
+            "price": "3812390",
+            "imgUrl": "https://product.hstatic.net/1000166699/product/ala_hap_db799f116ecd4fa3a7fce67351b17a3c_master.jpg",
+            "description": "Tôm Hùm Alaska Hấp Tự Nhiên: Giữ trọn hương vị tự nhiên của thịt Tôm Hùm Alaska: thơm tự nhiên và ngọt đậm đà, từng thớ thịt dai, săn chắc từng khối, ...",
+            "id": 6
+        }
+    ]
+}
