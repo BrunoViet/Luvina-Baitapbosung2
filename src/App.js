@@ -3,14 +3,16 @@ import './App.css';
 import Home from './component/Home';
 import Header from './component/Header';
 import "bootstrap/dist/css/bootstrap.min.css"
-
+import { Route, Routes } from 'react-router-dom';
+import Detail from './component/Detail';
 function App() {
   return (
     <>
-      <Header />
-      <div style={{ padding: "0 200px", marginTop: "20px" }}>
-        <Home />
-      </div>
+      <Routes>
+        <Route path="/" element={<Home />}></Route>
+        <Route path="/detail" element={<Detail />}></Route>
+      </Routes>
+
 
     </>
   );

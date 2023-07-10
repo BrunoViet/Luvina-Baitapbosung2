@@ -2,6 +2,8 @@ import { useState, useEffect } from "react"
 import axios from "axios";
 import Button from 'react-bootstrap/Button';
 import Card from 'react-bootstrap/Card';
+import Header from "./Header";
+import { Link } from "react-router-dom";
 
 function Home() {
     const [seafood, setSeafood] = useState([]);
@@ -16,7 +18,9 @@ function Home() {
 
     return (
         <>
-            <div className="row">
+            <Header />
+            <h1 className="text-center mb-3">Shop Seafood</h1>
+            <div className="row" style={{ padding: "0 200px" }}>
                 {seafood.map(item => {
                     return (
                         <>
@@ -28,7 +32,7 @@ function Home() {
                                     <Card.Text>
                                         {item.description}
                                     </Card.Text>
-                                    <Button variant="primary">Đặt hàng</Button>
+                                    <Button variant="primary"><Link to="/detail" style={{ textDecoration: "none", color: "white" }}>Đặt hàng</Link></Button>
                                 </Card.Body>
                             </Card>
                         </>
